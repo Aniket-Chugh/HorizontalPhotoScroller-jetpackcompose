@@ -9,7 +9,10 @@ HorizontalPhotoScroller-jetpackcompose is a Jetpack Compose function that allows
 
 - ## Preview --
 
-https://github.com/Aniket-Chugh/HorizontalPhotoScroller-jetpackcompose/assets/149312276/6e3d75fa-e613-475b-b5b3-8d69a0b8d78d
+
+
+https://github.com/Aniket-Chugh/HorizontalPhotoScroller-jetpackcompose/assets/149312276/a00c8a0e-56fe-4253-ae3a-8d88955add31
+
 
 
 
